@@ -4,7 +4,7 @@ pipeline {
     stage('') {
       steps {
         sh 'echo "hello there again from a branch!"'
-        sh 'echo trying again'
+        sh 'echo trying again 3'
       }
     }
   }
